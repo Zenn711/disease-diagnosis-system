@@ -125,5 +125,5 @@ Proyek ini dilisensikan di bawah **MIT License**.
 
 ## 📬 Kontak
 
-Jika ada pertanyaan atau saran, hubungi **\Harits** melalui email **\haritsnaufal479@gmail.com** atau buka *issue* di repositori ini.
+Jika ada pertanyaan atau saran, hubungi **Harits** melalui email **haritsnaufal479@gmail.com** atau buka *issue* di repositori ini.
 
